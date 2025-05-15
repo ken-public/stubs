@@ -9,8 +9,8 @@ You don't often get physical tickets anymore.  This is also a snapshot of growin
 
 I just wanted to put this collection together before I forget everything.  
 
-![Cronological](cronlogical.md)
+![Cronological](/cronlogical.md)
 
-![Alphabetical](alphabetical.md)
+![Alphabetical](/alphabetical.md)
 
-![Categories](categories.md)
+![Categories](/categories.md)
