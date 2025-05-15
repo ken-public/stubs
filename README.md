@@ -1,2 +1,17 @@
 # stubs
 ticket stubs and events
+
+# My event history
+### A collection of concerts, sporting events, and other shows that I attended.
+
+This is a list of all of the concerts and events that I can remember attending.  Over the years, I kept many of my ticket stubs in a box and that grew to multiple boxes. I used the ticket stubs to help me piece together the timeline. 
+
+You don't even get physical tickets anymore, so this is also a snapshot of growing up in the late 80's and 90's.
+
+I just wanted to put this together before I forget everything.  
+
+Cronological
+
+Alphabetical
+
+Categories
