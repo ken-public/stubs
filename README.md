@@ -9,8 +9,8 @@ This is also a snapshot of growing up in the Detroit area the late 80's and 90's
 
 I wanted to put this collection together before I forget everything.  
 
-![Cronological](/stubs/cronlogical.md)
+![Cronological](./cronlogical.md)
 
-![Alphabetical](/alphabetical.md)
+![Alphabetical](./alphabetical.md)
 
-![Categories](/categories.md)
+![Categories](./categories.md)
