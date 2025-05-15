@@ -1,5 +1,4 @@
-# stubs
-ticket stubs and events
+![Ticket](images/ticket.png)
 
 # My event history
 ### A collection of concerts, sporting events, and other shows that I attended.
@@ -10,8 +9,8 @@ You don't even get physical tickets anymore, so this is also a snapshot of growi
 
 I just wanted to put this together before I forget everything.  
 
-Cronological
+![Cronological](cronlogical.md)
 
-Alphabetical
+![Alphabetical](alphabetical.md)
 
-Categories
+![Categories](categories.md)
